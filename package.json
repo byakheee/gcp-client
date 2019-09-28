@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/byakheee/gcp-client/issues"
   },
-  "homepage": "https://github.com/byakheee/gcp-client#readme"
+  "homepage": "https://github.com/byakheee/gcp-client#readme",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "firebase": "^7.0.0",
+    "firebase-admin": "^8.6.0"
+  }
 }
