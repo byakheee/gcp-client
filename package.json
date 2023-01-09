@@ -19,6 +19,6 @@
   "dependencies": {
     "command-line-args": "^5.1.1",
     "firebase": "^7.0.0",
-    "firebase-admin": "^8.6.0"
+    "firebase-admin": "^11.4.1"
   }
 }
